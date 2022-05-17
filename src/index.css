@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  color:#3a3a3a;
+  /* font-family: 'Lato', sans-serif; */
+  font-family: 'Open Sans', sans-serif;
+}
+body {
+   margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
